@@ -1,0 +1,10000 @@
+  1 2 0 1 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 - - - o 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - o - 
+0 - - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+1 - o - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 o - o - 
+0 - - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+0 - - - - 
+2 o - - o 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o - o - 
+0 - - - - 
+2 o o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+2 o - - o 
+1 - - - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+1 - - - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+2 - o - o 
+1 - o - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+1 - - - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+1 - - - o 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+2 o o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 o - o - 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 o - - - 
+0 - - - - 
+1 - o - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+0 - - - - 
+1 - - o - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+2 o - o - 
+1 o - - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+0 - - - - 
+1 - o - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 o - - o 
+0 - - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 0 1 
+1 o - - - 
+1 - - - o 
+1 o - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+2 - - o o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 o - o - 
+1 - - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+2 o o - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+0 - - - - 
+2 o - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+0 - - - - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - o - 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 - - - o 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 - - o - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - o - 
+0 - - - - 
+1 - o - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - - o - 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+0 - - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - o - o 
+1 - - - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 o - - o 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 o - - - 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+1 - - o - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+2 - - o o 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - - - o 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+1 - o - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+1 - - - o 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - o - - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+0 - - - - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 o - - - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+3 o - o o 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+1 - - o - 
+1 o - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+1 - - - o 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 - - o o 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+2 o - - o 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o o - 
+0 - - - - 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+1 - o - - 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+2 o - o - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - - o o 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+1 - - - o 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 o - - - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - - o o 
+0 - - - - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+1 - o - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+2 o - o - 
+1 o - - - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+0 - - - - 
+2 o o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+3 o - o o 
+0 - - - - 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+3 o o - o 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+1 - - o - 
+1 - - o - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o - o - 
+0 - - - - 
+2 o o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+2 o - o - 
+1 o - - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+2 - o - o 
+1 - o - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+0 - - - - 
+1 - - - o 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+3 o - o o 
+0 - - - - 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - o - 
+1 o - - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - o - 
+0 - - - - 
+1 - o - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - - o - 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+2 o - - o 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+0 - - - - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+0 - - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o - - o 
+0 - - - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 o - - o 
+0 - - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+1 - - o - 
+1 o - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - o - - 
+0 - - - - 
+2 - - o o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 o - o - 
+0 - - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+2 o - - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o o - - 
+0 - - - - 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - o - 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 0 1 
+1 o - - - 
+1 - - - o 
+1 o - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+2 - o - o 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - - o - 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - o - 
+0 - - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 o - - o 
+0 - - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+1 - - - o 
+2 o o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+0 - - - - 
+2 o - - o 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 2 1 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 o - o - 
+0 - - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+0 - - - - 
+2 o o - - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - - o o 
+0 - - - - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - o - 
+1 o - - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o - o - 
+0 - - - - 
+2 o o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 o - o - 
+1 - - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+2 o - - o 
+1 - - - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+1 - - - o 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o - - o 
+0 - - - - 
+2 o o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+0 - - - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 o - o - 
+0 - - - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+0 - - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 o - - - 
+1 - - - o 
+1 - o - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o - o - 
+1 o - - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 - o - - 
+0 - - - - 
+2 o - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+1 o - - - 
+2 - - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - o - - 
+0 - - - - 
+2 - - o o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+2 o - o - 
+1 o - - - 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+3 o o - o 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - - - o 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 - - - o 
+0 - - - - 
+2 o - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 o - - o 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - - o 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+0 - - - - 
+2 - - o o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 o - - - 
+2 - - o o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 o - - - 
+1 - - - o 
+1 - o - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+1 - - - o 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+3 o - o o 
+0 - - - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+0 - - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+2 o - - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+2 - o - o 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+0 - - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - - - o 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+1 - - - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+1 - - o - 
+0 - - - - 
+2 o - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+3 o - o o 
+0 - - - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 o - - - 
+1 - - - o 
+1 - o - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - - o 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o o - 
+0 - - - - 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o o - - 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+2 o - - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+0 - - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+1 - - o - 
+2 o - o - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - - - o 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+3 o - o o 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+0 - - - - 
+1 - - - o 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+1 - - o - 
+2 o - o - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+2 o o - - 
+1 - - - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+0 - - - - 
+2 o - o - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - - o - 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+2 o - o - 
+1 o - - - 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+0 - - - - 
+2 o - - o 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+1 - o - - 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+0 - - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - - - o 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+0 - - - - 
+1 - - - o 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+1 - - - o 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+2 - - o o 
+1 o - - - 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o - - o 
+0 - - - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 - - - o 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+1 o - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - o - - 
+0 - - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - - - o 
+2 o o - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+1 - o - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - - o 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - - o - 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - - o o 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 1 0 
+1 - o - - 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+1 - o - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - - - o 
+2 o o - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+1 - - o - 
+1 - - o - 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - o - 
+0 - - - - 
+1 - o - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+1 o - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 - - - o 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+3 o o - o 
+0 - - - - 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+2 o - o - 
+1 - - o - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - o - 
+1 o - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+1 - - - o 
+1 - o - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - - o o 
+1 o - - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+0 - - - - 
+2 o - o - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 o - - - 
+2 - - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+0 - - - - 
+1 - - - o 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o o - 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+0 - - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - o - 
+0 - - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+3 o o - o 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+2 o - - o 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 o - - o 
+0 - - - - 
+1 - - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - o - - 
+0 - - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 - o - o 
+0 - - - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+2 o - - o 
+0 - - - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - o - - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 o - - - 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+2 o - - o 
+1 o - - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+0 - - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+1 - - o - 
+1 o - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+0 - - - - 
+2 o - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+0 - - - - 
+2 - - o o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+2 o - o - 
+1 o - - - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+2 - o - o 
+0 - - - - 
+1 - o - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - - o 
+1 o - - - 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+2 o - - o 
+1 - - - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+1 - o - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 - - o o 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+2 o o - - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+2 o o - - 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+2 o o - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - o - 
+0 - - - - 
+1 o - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 o - - - 
+1 - - - o 
+1 - o - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+0 - - - - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o - o - 
+1 o - - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o o - - 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - - o 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - o - - 
+0 - - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 o - o - 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 0 1 
+1 o - - - 
+1 o - - - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - - o o 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+2 o o - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 o - - - 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o - o - 
+0 - - - - 
+2 o o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 2 1 
+1 - - o - 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+3 o o - o 
+0 - - - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+2 - o - o 
+1 - - - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+3 o - o o 
+0 - - - - 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+3 o o - o 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - - - o 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+0 - - - - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+2 - o - o 
+0 - - - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+2 o o - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+2 o - - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 o - o - 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 o - o - 
+1 - - o - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 o - - - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o o - 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+2 o o - - 
+1 - - - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+2 - - o o 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+2 - - o o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+2 - - o o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - - o o 
+1 o - - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - o - - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - o - 
+1 o - - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - o - 
+1 o - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+2 o - o - 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - - - o 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+3 o o - o 
+0 - - - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+0 - - - - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+2 o - o - 
+1 o - - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 - - o - 
+2 o - o - 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+2 o - - o 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 - o - o 
+0 - - - - 
+1 o - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+2 o - o - 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 - o - o 
+0 - - - - 
+2 o o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+1 - o - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 - o - - 
+1 - - - o 
+1 o - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+0 - - - - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+1 - o - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - o - 
+0 - - - - 
+1 - - - o 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+2 - - o o 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 o - o - 
+0 - - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o o - 
+0 - - - - 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+1 o - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+0 - - - - 
+1 o - - - 
+1 - - o - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - o - 
+0 - - - - 
+1 o - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 - - - o 
+1 o - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+1 - - - o 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+3 o o - o 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - o - 
+0 - - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+1 - - - o 
+1 - o - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o - o - 
+1 o - - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o - o - 
+0 - - - - 
+2 o o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+0 - - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+2 - - o o 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+3 o o - o 
+0 - - - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o o - 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+3 o - o o 
+0 - - - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+1 - o - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+1 - - - o 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+1 o - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - - - o 
+2 o o - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+2 o - o - 
+1 - - o - 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+2 o - o - 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+2 o o - - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+1 - - - o 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+0 - - - - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+0 - - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+3 o - o o 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+0 - - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o o - - 
+0 - - - - 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 o - - - 
+2 - - o o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - - o o 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - o - - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 - - o o 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 - - - o 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+2 o - o - 
+0 - - - - 
+1 - - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - - - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+2 o - - o 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 - - - o 
+1 o - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+1 - o - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+0 - - - - 
+2 o - - o 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+2 - - o o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - - o 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+3 o - o o 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+2 - - o o 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+1 o - - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+1 - - o - 
+1 - - o - 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+0 - - - - 
+1 - o - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 0 1 
+2 o - - o 
+0 - - - - 
+1 o - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+0 - - - - 
+1 o - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - - - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o - o - 
+1 o - - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+1 - - - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 - - o o 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 o - - o 
+0 - - - - 
+1 - - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+3 o o - o 
+0 - - - - 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - o - o 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+1 - - o - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+2 o o - - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 1 0 
+1 - o - - 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+1 - - o - 
+1 - - o - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+1 o - - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+3 o - o o 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+2 - - o o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+2 o - o - 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+2 o - - o 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 o - o - 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+2 - o - o 
+0 - - - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 - - o o 
+0 - - - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - o - 
+0 - - - - 
+1 o - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+1 o - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - o - 
+0 - - - - 
+1 - o - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+1 - - - o 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+0 - - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+1 - o - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 o - o - 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o o - - 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+2 o - o - 
+0 - - - - 
+1 - - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - - o o 
+0 - - - - 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+0 - - - - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o o - 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+3 o - o o 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o o - 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 - - o o 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+1 - - - o 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+1 - - o - 
+1 o - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - - o 
+0 - - - - 
+1 - - o - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - o - - 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 o - - - 
+1 - - - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+1 o - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o o - 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+1 - - - o 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 - - o o 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - - - o 
+2 o o - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+1 - - o - 
+0 - - - - 
+2 o - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 - - - o 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - o - o 
+1 - - - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+2 o o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+1 - - - o 
+1 - o - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 o - o - 
+0 - - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 o - - o 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+1 o - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 - o - - 
+0 - - - - 
+1 o - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+1 - - - o 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - o - - 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+2 - - o o 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - - - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 - o - o 
+0 - - - - 
+1 o - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+1 - - - o 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 o - o - 
+0 - - - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - o - 
+1 o - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 - o - o 
+0 - - - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+1 - - - o 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+1 - - - o 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 o - - o 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - o - - 
+0 - - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+2 o - o - 
+1 - - o - 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+1 - - o - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+0 - - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - o - - 
+1 - - - o 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 o - o - 
+0 - - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+1 - - - o 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - - - o 
+1 - o - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+1 - - o - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - o - - 
+1 - - - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o o - - 
+0 - - - - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+1 - - o - 
+0 - - - - 
+2 o - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - - o o 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - o - o 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 o - - - 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 - o - o 
+0 - - - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+2 o - - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+2 o - o - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+2 o - - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 0 1 
+2 o - - o 
+1 o - - - 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+3 o - o o 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 - - o - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+1 o - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+0 - - - - 
+1 o - - - 
+1 - - o - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 - o - - 
+0 - - - - 
+2 o - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+2 o o - - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+0 - - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+2 o - - o 
+1 o - - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - o - o 
+1 - - - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 - o - o 
+0 - - - - 
+2 o o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - - o o 
+0 - - - - 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+2 o o - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 o - - - 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - - - o 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - o - 
+0 - - - - 
+1 - o - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 0 1 
+1 o - - - 
+0 - - - - 
+1 o - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - o - 
+0 - - - - 
+1 - o - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+2 - o o - 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 o - - - 
+0 - - - - 
+1 - - - o 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - o - o 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+2 o o - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - - - o 
+2 o o - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 1 0 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 o - - o 
+0 - - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+2 o - o - 
+1 o - - - 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 o - - o 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+2 - o - o 
+1 - o - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 - o - o 
+0 - - - - 
+1 o - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+3 o - o o 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+0 - - - - 
+2 o - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - - o 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+2 o o - - 
+0 - - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+3 o - o o 
+0 - - - - 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+1 - - o - 
+0 - - - - 
+2 o - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+0 - - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - o - - 
+0 - - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+1 - - - o 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+2 o - - o 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+2 - o - o 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - - o 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 - - o o 
+0 - - - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+0 - - - - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - - o o 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+2 o - - o 
+1 - - - o 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+3 o - o o 
+0 - - - - 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+1 - - - o 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+3 o - o o 
+0 - - - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 - - o o 
+0 - - - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+3 o o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 o - - - 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+1 - - o - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+2 o o - - 
+0 - - - - 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - - o 
+2 - o - o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - o - - 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - o - - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o o - 
+0 - - - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 - - - o 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 0 1 
+1 o - - - 
+0 - - - - 
+1 o - - - 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+1 - - o - 
+1 o - - - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - o - 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+2 - o - o 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 o - - - 
+1 - - - o 
+1 - o - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+2 - - o o 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+1 o - - - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+3 o - o o 
+0 - - - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+1 - - o - 
+1 - - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o - - o 
+0 - - - - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+2 o - o - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 0 1 
+1 o - - - 
+0 - - - - 
+2 o - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 - o o - 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - - - o 
+2 o o - - 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - o - 
+0 - - - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 o - - - 
+1 - - - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+1 - - o - 
+1 o - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+0 - - - - 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 - - o - 
+2 o - o - 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 o - - - 
+1 - - - o 
+0 - - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 0 3 
+1 - - - o 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 - o - - 
+0 - - - - 
+1 o - - - 
+2 o - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 0 3 
+1 - - - o 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+0 - - - - 
+1 o - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 2 0 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+2 - o o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+1 - o - - 
+1 - o - - 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+1 - - o - 
+1 o - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+2 o o - - 
+0 - - - - 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+2 o - - o 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - o - o 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 1 0 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+2 o - - o 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+1 o - - - 
+0 - - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - - o - 
+0 - - - - 
+2 o o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+2 o - o - 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+1 o - - - 
+1 - - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+1 - - - o 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 - - o - 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+3 o o - o 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 2 1 
+1 - - o - 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+1 - - - o 
+1 - - - o 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+1 - - o - 
+1 - - o - 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+2 - o - o 
+0 - - - - 
+2 - - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - o - 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 0 2 
+1 o - - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+1 - o - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 o - - - 
+1 - - - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+1 o - - - 
+2 o - o - 
+0 - - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 1 1 
+0 - - - - 
+1 o - - - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+2 o - o - 
+1 - - o - 
+1 o - - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 1 2 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+0 - - - - 
+1 - - - o 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+0 - - - - 
+2 - o o - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 1 0 1 
+1 o - - - 
+0 - - - - 
+2 o o - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  2 0 2 0 
+1 o - - - 
+1 - - o - 
+2 o - o - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  3 0 1 0 
+2 o - o - 
+0 - - - - 
+1 o - - - 
+1 o - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+3 o - o o 
+0 - - - - 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - - o - 
+0 - - - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+2 o o - - 
+1 - - - o 
+1 - o - - 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - o - - 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 1 2 1 
+1 - - o - 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+2 o o - - 
+1 - - - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+1 o - - - 
+2 - - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 3 0 1 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 1 1 
+1 - - o - 
+0 - - - - 
+0 - - - - 
+3 o o - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 3 0 
+1 - - o - 
+2 o - o - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+1 o - - - 
+2 - - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+2 - - o o 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 2 0 1 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 o o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+2 - - o o 
+0 - - - - 
+1 o - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+1 - - - o 
+2 o - - o 
+0 - - - - 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+0 - - - - 
+1 - - o - 
+0 - - - - 
+3 o - o o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 0 2 
+1 - - - o 
+1 - o - - 
+2 - o - o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+2 o - - o 
+1 - - - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+1 - - o - 
+0 - - - - 
+2 - o - o 
+1 - o - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  0 2 1 1 
+2 - o - o 
+1 - o - - 
+0 - - - - 
+1 - - o - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+1 - - - o 
+0 - - - - 
+3 o - o o 
+0 - - - - 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 1 2 
+2 o - o - 
+0 - - - - 
+1 - - - o 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 0 2 1 
+1 - - o - 
+2 o - o - 
+0 - - - - 
+1 - - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
+  1 1 0 2 
+0 - - - - 
+1 - o - - 
+1 - - - o 
+2 o - - o 
+n: 4 m: 4
+battleships: 0
+cruisers: 0
+destroyers: 1
+submarines: 2
